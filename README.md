@@ -1,2 +1,3 @@
-# AllTheSus-ATS
-Welcome to AllTheSus first editon where the fun begon
+Welcome to 
+# Technology is SUS 
+first editon where the fun begon
